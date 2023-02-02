@@ -1,5 +1,7 @@
 # pointertofunction
 
+\\ code for pointertofunction
+
 # include <stdio.h
 void _swap(int* a, int *b);
 int main() {
